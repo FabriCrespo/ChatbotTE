@@ -6,6 +6,10 @@
 	{"tag":"despedida",
 		"patrones":["adios", "gracias", "hasta luego"],
 		"respuestas":["Hasta Luego!", "Adios!", "Bye!"]
+	},
+	{"tag":"inscripciones",
+		"patrones":["inscribir", "inscripción", "inscribirme"],
+		"respuestas":["Las inscrpciones inician en Enero ", "puedes inscribirte desde enero", "nuestras inscripciones son en Enero"]
 	}
 ]
 
